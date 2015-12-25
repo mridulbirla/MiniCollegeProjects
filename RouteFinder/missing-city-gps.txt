@@ -1,0 +1,740 @@
+Abbotsford,_Wisconsin 44.946356 -90.315969
+Abbyville,_Kansas 37.9708468 -98.2042298
+Aberdeen,_Mississippi 33.8251139 -88.5436553
+Aberdeen,_Washington 46.9753708 -123.8157218
+Abilene,_Texas 32.4464534 -99.7333478
+Abingdon,_Virginia 36.7095788 -81.9774878
+Aboite,_Indiana 41.0008846 -85.3180256
+Ackerman,_Mississippi 33.3117185 -89.1711082198
+Acton-Vale,_Quebec 45.647633 -72.5637605
+Adamsville,_Michigan 41.7853265 -85.9938917
+Adrian,_Michigan 41.8975471 -84.0371659
+Aiken,_South Carolina 33.5598586 -81.721952
+Akron,_Ohio 41.0830643 -81.5184854
+Alanson,_Michigan 45.4441778 -84.7867115
+Albany New York 42.6511674 -73.754968
+Albert Lea,_Minnesota 43.6480127 -93.3682656
+Albion,_Michigan 42.243097 -84.7530304
+Albion,_Nebraska 41.6908444 -98.0036724
+Aldine,_Texas 29.932445 -95.3802149
+Alexandria,_Minnesota 45.8846686 -95.377883
+Alexandria,_Missouri 40.3594887 -91.455432
+Alger,_Michigan 46.4047895 -86.5280993
+Algona,_Iowa 43.0699663 -94.233019
+Allegan,_Michigan 42.5867203 -85.8861492
+Allen Park,_Michigan 42.2575385 -83.2110375
+Allenton,_Rhode Island 41.5439902 -71.4678357
+Allentown,_New Jersey 40.1778887 -74.5834887
+Alliance,_Nebraska 42.1000872 -102.8706439
+Allouez,_Wisconsin 44.4774269 -88.0163556
+Alma,_Arkansas 35.4998715 -94.1765551373
+Alma,_Quebec 48.5486852 -71.6512261
+Alpena,_Michigan 45.0616794 -83.4327528
+Alpine,_Arizona 33.8481076 -109.1431325
+Alpine,_Wyoming 43.1751993 -111.0346562
+Alstead,_New Hampshire 43.1489663 -72.3606431
+Altamont,_Kansas 37.1903448 -95.2971928
+Altamont,_South Dakota 44.8396869 -96.6895039
+Alto,_Michigan 42.8566988 -85.3802937
+Alva,_Oklahoma 36.8050308 -98.6664737
+Alvin,_Texas 29.4238472 -95.2441009
+American Falls,_Idaho 42.7860227 -112.8544377
+Ames,_Iowa 42.0346917 -93.6201507
+Amherst,_Nova Scotia 45.8347665 -64.2132284
+Amqui,_Quebec 48.4656706 -67.4315171
+Anaconda,_Montana 46.1287944 -112.9423687
+Anadarko,_Oklahoma 35.072562 -98.2436626
+Angola,_Indiana 41.634874 -84.99928
+Aniwa,_Wisconsin 44.974207 -89.1627576374
+Ann Arbor,_Michigan 42.2681569 -83.7312291
+Anna,_Illinois 37.4603274 -89.2470282
+Annapolis,_Maryland 38.9786401 -76.492786
+Annapolis Royal,_Nova Scotia 44.7458824 -65.5136186
+Anoka,_Minnesota 45.1977428 -93.3871758
+Appleton,_Wisconsin 44.2611337 -88.4067604
+Appling,_Georgia 31.7771435 -82.2996274
+Arco,_Idaho 43.635336 -113.2999525
+Arlington,_Kansas 37.8966808 -98.1786739
+Arlington,_South Dakota 44.3644133 -97.1331212
+Arlington,_Texas 32.7355816 -97.1071186
+Arlington,_Wisconsin 43.338044 -89.3803956
+Armstrong,_Quebec 45.9492469 -70.4434533
+Arnett,_Oklahoma 36.1350421 -99.7748384
+Anna,_Illinois 37.4603274 -89.2470282
+Annapolis Maryland 38.9786401 -76.492786
+Annapolis Royal Nova Scotia 44.7458824 -65.5136186
+Anoka,_Minnesota 45.1977428 -93.3871758
+Appleton Wisconsin 44.2611337 -88.4067604
+Appleton,_Wisconsin 44.2611337 -88.4067604
+Appling,_Georgia 31.7771435 -82.2996274
+Arco,_Idaho 43.635336 -113.2999525
+Arlington,_Kansas 37.8966808 -98.1786739
+Arlington,_South Dakota 44.3644133 -97.1331212
+Arlington,_Texas 32.7355816 -97.1071186
+Arlington,_Wisconsin 43.338044 -89.3803956
+Arlington,_Wisconsin 43.338044 -89.3803956
+Arlington,_Wisconsin 43.338044 -89.3803956
+Armstrong,_Quebec 45.9492469 -70.4434533
+Armstrong,_Quebec 45.9492469 -70.4434533
+Armstrong,_Quebec 45.9492469 -70.4434533
+Arnett,_Oklahoma 36.1350421 -99.7748384
+Anna,_Illinois 37.4603274 -89.2470282
+Annapolis Maryland 38.9786401 -76.492786
+Annapolis Royal Nova Scotia 44.7458824 -65.5136186
+Anoka,_Minnesota 45.1977428 -93.3871758
+Appleton Wisconsin 44.2611337 -88.4067604
+Appleton,_Wisconsin 44.2611337 -88.4067604
+Appling,_Georgia 31.7771435 -82.2996274
+Arco,_Idaho 43.635336 -113.2999525
+Arlington,_Kansas 37.8966808 -98.1786739
+Arlington,_South Dakota 44.3644133 -97.1331212
+Arlington,_Texas 32.7355816 -97.1071186
+Arlington,_Wisconsin 43.338044 -89.3803956
+Armstrong,_Quebec 45.9492469 -70.4434533
+Arnett,_Oklahoma 36.1350421 -99.7748384
+Arthur,_Nebraska 41.5721288 -101.6974898
+Ascutney,_Vermont 43.4070172 -72.4070346
+Asheboro,_North Carolina 35.7079146 -79.8136446
+Ashland,_Ohio 40.7887367 -82.2360391
+Ashwaubenon,_Wisconsin 44.4752606 -88.060735
+Athens,_Georgia 33.9595974 -83.376678
+Athens,_Michigan 42.0886576 -85.2347052
+Atlanta,_Georgia 33.7490987 -84.3901849
+Atlanta,_Texas 33.1137419 -94.1643537
+Atlantic,_Iowa 41.4036007 -95.0138776
+Attleboro Falls,_Massachusetts 41.9709326 -71.3161654
+Auburn,_Massachusetts 42.1945385 -71.8356271
+Auburn Hills,_Michigan 42.6647495 -83.230937513
+Augusta,_Georgia 33.4709714 -81.9748429
+Augusta,_Kansas 37.6913769 -96.9707179
+Augusta,_Maine 44.3105322 -69.7793295
+Aulac,_New Brunswick 45.8704653 -64.281406
+Ault,_Colorado 40.5824804 -104.7319112
+Auroraville,_Wisconsin 44.0519247 -88.9926156
+Austin,_Minnesota 43.6680928 -92.9744896
+Austin,_Nevada 39.4932592 -117.0695386
+Austin,_Texas 30.2711286 -97.7436995
+Avoca,_Iowa 41.4766571 -95.3380549
+Avon,_Montana 46.5971546 -112.601977
+Ayer's Cliff,_Quebec 45.1672925 -72.0401505
+Azalea Park,_Florida 28.54736095 -81.3010465516
+Bad Axe,_Michigan 43.8019592 -83.0007774
+Badham,_South Carolina 33.1957177 -80.6112086
+Baie-Comeau,_Quebec 49.216667 -68.1500082
+Baie-Comeau,_Quebec 49.216667 -68.1500082
+Baie-Comeau,_Quebec 49.216667 -68.1500082
+Baie-Ste-Catherine,_Quebec 48.1051056 -69.7283262
+Baie-Ste-Catherine,_Quebec 48.1051056 -69.7283262
+Bakersfield,_California 35.3738712 -119.0194639
+Bala,_Kansas 39.3086519 -96.9497816
+Bala,_Kansas 39.3086519 -96.9497816
+Bala-Cynwyd,_Pennsylvania 40.0076125 -75.2340695
+Balcones Heights,_Texas 29.489573 -98.5501765
+Baldwin,_Florida 30.3027384 -81.9753865
+Baldwin,_Michigan 43.9011229 -85.8517287
+Baldwin Park,_California 34.08033185 -117.966213666
+Balsam Lake,_Wisconsin 45.4521807 -92.4546428
+Baltimore,_Maryland 39.2908608 -76.6108073
+Bangor,_Maine 44.8011821 -68.7778138
+Bangor,_Maine 44.8011821 -68.7778138
+Barberville,_Florida 29.1872023 -81.420901
+Barksdale,_Wisconsin 46.5979566 -91.0650946
+Barnesville,_Minnesota 46.6521821 -96.4197902
+Barnesville,_Minnesota 46.6521821 -96.4197902
+Barnstable,_Massachusetts 41.7001132 -70.2994666
+Barrett,_Minnesota 45.9105157 -95.8903298
+Barron,_Wisconsin 45.423557 -91.8454099
+Barron,_Wisconsin 45.423557 -91.8454099
+Barry,_Illinois 39.6942135 -91.0390246
+Bartlesville,_Oklahoma 36.7473114 -95.9808179
+Barton,_Vermont 44.7481049 -72.1762128
+Bartonville,_Illinois 40.6503158 -89.6520455
+Bartonville,_Illinois 40.6503158 -89.6520455
+Bartow,_Georgia 34.2394683 -84.8406984
+Basehor,_Kansas 39.1416692 -94.9385763
+Bastrop,_Louisiana 32.7562463 -91.8723497
+Batavia,_New York 42.9980144 -78.1875515
+Bath,_Ohio 41.16932495 -81.6366797705
+Baton Rouge,_Louisiana 30.4507462 -91.154551
+Battle Creek,_Michigan 42.3192548 -85.1824269
+Baxter Springs,_Kansas 37.0236759 -94.7355042
+Bay City,_Michigan 43.5944677 -83.8888648
+Bay Minette,_Alabama 30.8829628 -87.7730474
+Bean Station,_Tennessee 36.3437017 -83.284062
+Beauceville,_Quebec 46.2106241 -70.7741368
+Beauceville,_Quebec 46.2106241 -70.7741368
+Beauceville,_Quebec 46.2106241 -70.7741368
+Beauport,_Quebec 46.8594456 -71.1932496
+Beauport,_Quebec 46.8594456 -71.1932496
+Beauport,_Quebec 46.8594456 -71.1932496
+Beebe,_Arkansas 35.0706424 -91.8795856
+Beiseker,_Alberta 51.3849968 -113.5400152
+Belchertown,_Massachusetts 42.2770362 -72.4009176
+Belfield,_North Dakota 46.8852906 -103.1996219
+Belfield,_North Dakota 46.8852906 -103.1996219
+Belgrade,_Minnesota 45.4530207 -95.0044608
+Bellaire,_Texas 29.7057858 -95.4588299
+Bellaire,_Texas 29.7057858 -95.4588299
+Belleville,_Kansas 39.8244501 -97.6325415
+Bellevue,_Nebraska 41.1366494 -95.8907373
+Bellevue,_Nebraska 41.1366494 -95.8907373
+Bellevue,_Nebraska 41.1366494 -95.8907373
+Belmont,_Mississippi 34.5081015 -88.2114715
+Belmont,_Mississippi 34.5081015 -88.2114715
+Beloeil,_Quebec 45.5638055 -73.2053612
+Beloeil,_Quebec 45.5638055 -73.2053612
+Beloeil,_Quebec 45.5638055 -73.2053612
+Beloeil,_Quebec 45.5638055 -73.2053612
+Beloit,_Wisconsin 42.5083272 -89.031784
+Bemidji,_Minnesota 47.4786541 -94.890802
+Benson,_Minnesota 45.3149604 -95.6000349
+Benton,_California 37.819096 -118.4765017
+Benzonia,_Michigan 44.6213885 -86.0992576
+Beresford,_South Dakota 43.0805446 -96.773655
+Beresford,_South Dakota 43.0805446 -96.773655
+Bernardston,_Massachusetts 42.6709176 -72.5495336
+Berthierville,_Quebec 46.0865056 -73.1703062
+Berthierville,_Quebec 46.0865056 -73.1703062
+Berthierville,_Quebec 46.0865056 -73.1703062
+Bertram,_Iowa 41.9497259 -91.5354538
+Bertrand,_Michigan 41.7744921 -86.2622306
+Bethany,_Missouri 40.2683344 -94.0282861
+Bethel,_Tennessee 35.0017501 -87.0533429
+Bethel,_Vermont 43.8333999 -72.6339903
+Bettendorf,_Iowa 41.5255466 -90.5081478
+Bevington,_Iowa 41.3605472 -93.7907776
+Bevington,_Iowa 41.3605472 -93.7907776
+Biddeford,_Maine 43.4925843 -70.4533844
+Big Falls,_Minnesota 48.1910626 -93.8065692
+Big Rapids,_Michigan 43.6980782 -85.4836558
+Bigfork,_Montana 48.0632865 -114.0726134
+Billsburg,_South Dakota 44.4010012 -101.681205848
+Bixby,_Missouri 37.6603241 -91.1151323
+Black Lake,_Quebec 46.0474204 -71.3696194
+Black Lake,_Quebec 46.0474204 -71.3696194
+Black Lake,_Quebec 46.0474204 -71.3696194
+Black Lake,_Quebec 46.0474204 -71.3696194
+Black River Falls,_Wisconsin 44.2952152 -90.8484137
+Blackduck,_Minnesota 47.7330101 -94.548579
+Blair,_Nebraska 41.5444379 -96.1250151
+Blair,_Nebraska 41.5444379 -96.1250151
+Blairsburg,_Iowa 42.4798547 -93.6429769
+Blairsville,_Georgia 34.8759067 -83.958371
+Blanc-Sablon,_Quebec 51.4250063 -57.1488192
+Blomkest,_Minnesota 44.9427397 -95.0233368
+Bloomfield,_Iowa 40.7516884 -92.4149074
+Bloomfield Hills,_Michigan 42.583645 -83.2454883
+Bloomfield Hills,_Michigan 42.583645 -83.2454883
+Bloomington,_Illinois 40.4731073 -88.9941403
+Bloomington,_Minnesota 44.8322405 -93.3204872
+Blue Earth,_Minnesota 44.0109722 -94.0560643
+Blue Springs,_Missouri 39.01723 -94.2822095
+Blue Springs,_Missouri 39.01723 -94.2822095
+Blue Summit,_Missouri 39.0369361 -94.3303503
+Blue Summit,_Missouri 39.0369361 -94.3303503
+Bolivar,_Missouri 37.6144838 -93.4104749
+Bolton Notch,_Connecticut 41.77621 -72.4423064
+Boltonville,_Vermont 44.1708964 -72.0998149
+Bon Air,_Virginia 37.5248694 -77.5577654
+Bonner Springs,_Kansas 39.059726 -94.8835754
+Bonner Springs,_Kansas 39.059726 -94.8835754
+Boron,_California 34.9994202 -117.6497822
+Boscobel,_Wisconsin 43.1344278 -90.7054009
+Bosler,_Wyoming 41.576084 -105.6952708
+Bossier City,_Louisiana 32.5499425 -93.7009592452
+Bossier City,_Louisiana 32.5499425 -93.7009592452
+Boston,_Massachusetts 42.3604823 -71.0595678
+Bottineau,_North Dakota 48.8272301 -100.4456984
+Boucherville,_Quebec 45.6050197 -73.4526144
+Bouton,_Iowa 41.8513741 -94.0091208
+Bouton,_Iowa 41.8513741 -94.0091208
+Bow Mills,_New Hampshire 43.167026 -71.5331266
+Bowbells,_North Dakota 48.8030833 -102.2460008
+Bowbells,_North Dakota 48.8030833 -102.2460008
+Bowers Hill,_Virginia 39.1802753 -78.1796179
+Boxborough,_Massachusetts 42.4934474 -71.5141044
+Boxborough,_Massachusetts 42.4934474 -71.5141044
+Boyceville,_Wisconsin 45.0435742 -92.0410145
+Boynton,_Oklahoma 35.6487119 -95.656095
+Bradenton,_Florida 27.4989278 -82.5748194
+Braintree,_Massachusetts 42.2223218 -70.999492
+Branch,_Missouri 37.9108682 -93.0051897
+Brandon,_Florida 27.937801 -82.2859247
+Bridgeport,_Nebraska 41.6652507 -103.0990976
+Bridgeport,_Oklahoma 35.5464397 -98.3845079
+Bridgeton,_Missouri 38.7669954 -90.4115057
+Bristol,_Indiana 41.7212656 -85.817728
+Bristol,_Tennessee 36.5951059 -82.1887444
+Bristow,_Oklahoma 35.8306334 -96.391118
+Bristow,_Oklahoma 35.8306334 -96.391118
+Bristow,_Oklahoma 35.8306334 -96.391118
+Bristow,_Oklahoma 35.8306334 -96.391118
+Bromptonville,_Quebec 45.4723771 -71.9452592
+Bromptonville,_Quebec 45.4723771 -71.9452592
+Bromptonville,_Quebec 45.4723771 -71.9452592
+Brookline,_Massachusetts 42.3317642 -71.1211635
+Brooklyn Center,_Minnesota 45.0748543 -93.3296296
+Brooks,_Alberta 50.5704252 -111.8924659
+Brossard,_Quebec 45.4554829 -73.4678904
+Brossard,_Quebec 45.4554829 -73.4678904
+Brossard,_Quebec 45.4554829 -73.4678904
+Bruce,_Mississippi 33.9920553 -89.3489641
+Brule,_Wisconsin 46.5529965 -91.5765779
+Brunswick,_Maine 43.9145244 -69.9653278
+Brunswick,_Nebraska 42.3377827 -97.9706228
+Buchanan,_Michigan 41.8272684 -86.3611249
+Buckingham,_Quebec 45.5899567 -75.4193379
+Buckingham,_Quebec 45.5899567 -75.4193379
+Buckingham,_Quebec 45.5899567 -75.4193379
+Buckingham,_Quebec 45.5899567 -75.4193379
+Bucklin,_Kansas 37.5472429 -99.6342901
+Bucyrus,_Ohio 40.8083909 -82.9754649
+Buffalo,_Kansas 37.7097669 -95.6974822
+Buffalo,_Missouri 37.6439289 -93.0924093
+Buffalo,_Tennessee 35.8856194 -87.806692
+Buffalo,_Wyoming 44.3483082 -106.6989381
+Bulls Gap,_Tennessee 36.2570407 -83.0859967
+Burlington,_Vermont 44.4723989 -73.2114941
+Burnsville,_Minnesota 44.7677424 -93.2777226
+Butler,_Alabama 31.7340713 -86.6754793
+Butler,_Wisconsin 43.1058437 -88.0695338
+Butler,_Wisconsin 43.1058437 -88.0695338
+Butler,_Wisconsin 43.1058437 -88.0695338
+Butler,_Wisconsin 43.1058437 -88.0695338
+Butterfield,_Arkansas 34.4273142 -92.8137801
+Byhalia,_Mississippi 34.8723179 -89.6906396
+Byron,_Georgia 32.6537561 -83.7596294
+Byron,_Georgia 32.6537561 -83.7596294
+Cache Creek,_British Columbia 50.8090434 -121.325266
+Caddo Valley,_Arkansas 34.1820388 -93.0710073
+Cadillac,_Michigan 44.2519526 -85.4011619
+Cadillac,_Michigan 44.2519526 -85.4011619
+Calhoun City,_Mississippi 33.8553915 -89.3114613
+Callahan,_Florida 30.5621807 -81.8306621
+Calmar,_Iowa 43.1835847 -91.8640483
+Calvin,_Oklahoma 34.9674231 -96.2522433
+Calvin,_Oklahoma 34.9674231 -96.2522433
+Cambridge,_Wisconsin 43.0036122 -89.0164995
+Camden,_New Jersey 39.8014709 -74.968553
+Camden,_South Carolina 34.2465393 -80.6070238
+Camdenton,_Missouri 38.0080902 -92.7446289
+Cameron,_Arizona 35.8740383 -111.4119186
+Cameron,_Missouri 39.7402801 -94.241057
+Campbell,_California 37.2883259 -121.9456328
+Campbell,_Missouri 36.4933927 -90.0750949
+Campbellsburg,_Kentucky 38.5236762 -85.2027327
+Candiac,_Quebec 45.3943301 -73.5192947
+Candiac,_Quebec 45.3943301 -73.5192947
+Canton,_Mississippi 32.607675 -90.0118629708
+Cape Girardeau,_Missouri 37.3058839 -89.5181476
+Capitol Heights,_Iowa 41.6333223 -93.5202146
+Carlton,_Minnesota 46.5799933 -92.7206334
+Carlton,_Minnesota 46.5799933 -92.7206334
+Carmel Church,_Virginia 38.042081 -76.6235734
+Carrington,_North Dakota 47.4497202 -99.1262235
+Carrington,_North Dakota 47.4497202 -99.1262235
+Carroll,_Iowa 42.0193628 -94.860335
+Carrollton,_Michigan 43.4586362 -83.9302513
+Carrollton,_Michigan 43.4586362 -83.9302513
+Carthage,_Mississippi 31.5265557 -91.4459501
+Carthage,_Missouri 37.176447 -94.3102228
+Cascade,_British Columbia 49.0186213 -118.2053707
+Casper,_Wyoming 42.866632 -106.313081
+Castlegar,_British Columbia 49.3159527 -117.6608284
+Castleton,_Indiana 39.9069833 -86.0522071
+Catoosa,_Oklahoma 36.188987 -95.745817
+Cayuse Pass,_Washington 46.8678157 -121.5406136
+Cedar Point,_Illinois 41.2630912 -89.1256394
+Cedar Rapids,_Iowa 41.9758872 -91.6704053
+Cedar Springs,_Michigan 43.2233604 -85.5514237
+Cedarville,_Michigan 45.9980732 -84.3630872
+Cedarville,_Michigan 45.9980732 -84.3630872
+Centerville,_Iowa 40.7341804 -92.8740876
+Centerville,_Missouri 37.4350477 -90.9584571
+Chadron,_Nebraska 42.8294187 -102.999907
+Chambord,_Quebec 48.4284598 -72.065012
+Chambord,_Quebec 48.4284598 -72.065012
+Chambord,_Quebec 48.4284598 -72.065012
+Chambord,_Quebec 48.4284598 -72.065012
+Champion,_Michigan 46.5138246 -87.9634679
+Chanute,_Kansas 37.6792135 -95.4572034
+Chappell,_Nebraska 41.0927664 -102.4707445
+Charlesbourg,_Quebec 46.8608449 -71.2691221
+Charlesbourg,_Quebec 46.8608449 -71.2691221
+Charny,_Quebec 46.7169571 -71.2693222
+Charny,_Quebec 46.7169571 -71.2693222
+Charny,_Quebec 46.7169571 -71.2693222
+Charny,_Quebec 46.7169571 -71.2693222
+Chattanooga,_Tennessee 35.0456297 -85.3096801
+Chattanooga,_Tennessee 35.0456297 -85.3096801
+Cheboygan,_Michigan 45.4417481 -84.4768486
+Checotah,_Oklahoma 35.4700993 -95.5230356
+Chelsea,_Michigan 42.3180163 -84.020224
+Chepachet,_Rhode Island 41.9150986 -71.6714555
+Cherry Valley,_Illinois 42.2392959 -88.9597115
+Cherryfield,_Maine 44.6072991 -67.9258366
+Chester,_California 40.298829 -121.237124881
+Chester,_South Carolina 34.6859896 -81.1545073
+Chester Basin,_Nova Scotia 44.566812 -64.3092599
+Chesterfield,_Michigan 42.648424 -83.4230959
+Chestermere,_Alberta 51.0434743 -113.820058
+Chestermere,_Alberta 51.0434743 -113.820058
+Chibougamau,_Quebec 49.9136219 -74.3700447
+Chicago,_Illinois 41.8755546 -87.6244212
+Chicago Heights,_Illinois 41.5062834 -87.6357079
+Chickasha,_Oklahoma 35.052565 -97.9364326
+Chico,_California 39.7284945 -121.8374777
+Chicoutimi,_Quebec 48.4054903 -71.0678424
+Chicoutimi,_Quebec 48.4054903 -71.0678424
+Chilton,_Wisconsin 44.028944 -88.1628151
+China Grove,_Texas 32.5301143 -100.817336
+Chinese Camp,_California 37.86918775 -120.444139116
+Chippewa Falls,_Wisconsin 44.9369054 -91.3929348
+Chisholm,_Minnesota 47.4899262 -92.8835278
+Chateauguay,_Quebec 45.3637187 -73.758782
+Circle,_Montana 47.416675 -105.5922222
+Ciudad Acuna,_Coahuila 29.3182044 -100.935878
+Clarkston,_Michigan 42.7086411 -83.4396633
+Clay Center,_Nebraska 40.5216783 -98.055326
+Clearwater,_Florida 27.9658533 -82.8001026
+Cleo Springs,_Oklahoma 36.405312 -98.4406325
+Cleveland,_Tennessee 35.1595182 -84.8766115
+Clinton,_Michigan 42.9435238 -84.6125345
+Clinton,_Mississippi 32.34672 -90.3390874161
+Clinton,_Mississippi 32.34672 -90.3390874161
+Clio,_Michigan 43.1775257 -83.7341274
+Clio,_Michigan 43.1775257 -83.7341274
+Cloverdale,_Indiana 39.5147682 -86.7938969
+Coaldale,_Nevada 38.0274306 -117.8831592
+Coburn Gore,_Maine 45.3792147 -70.803407
+Cocoa,_Florida 28.3821505 -80.7757979975
+Colby,_Kansas 39.3958369 -101.0523773
+Coldwater,_Kansas 37.2689131 -99.3267808
+Coleharbor,_North Dakota 47.5441651 -101.2237662
+Colfax,_North Carolina 36.1126365 -80.0144842
+Collierville,_Tennessee 35.042036 -89.6645266
+Collierville,_Tennessee 35.042036 -89.6645266
+Collinsville,_Oklahoma 36.3645384 -95.8388766
+Collinwood,_Tennessee 35.1743268 -87.7373411
+Collinwood,_Tennessee 35.1743268 -87.7373411
+Colo,_Iowa 42.0177653 -93.3152072
+Colo,_Iowa 42.0177653 -93.3152072
+Coloma,_Wisconsin 44.0355294 -89.5215116
+Columbia,_South Carolina 34.0007493 -81.0343313
+Columbia,_South Carolina 34.0007493 -81.0343313
+Columbia,_South Carolina 34.0007493 -81.0343313
+Columbia,_Tennessee 35.6150716 -87.0352831
+Columbus,_Nebraska 41.4297264 -97.3683892
+Comstock Park,_Michigan 43.0386368 -85.6700332
+Concord,_California 37.9779777 -122.0310733
+Connell,_Washington 46.6634733 -118.8611117
+Connell,_Washington 46.6634733 -118.8611117
+Connorsville,_Wisconsin 45.1360739 -92.0949049
+Conway,_Arkansas 35.0886963 -92.4421011
+Cook,_Minnesota 47.9149076 -90.47301
+Cookshire,_Quebec 45.41456295 -71.6211065636
+Cooperstown,_North Dakota 47.4444384 -98.1239843
+Copeland,_Kansas 37.5419685 -100.6296
+Cornish,_Maine 43.8047977 -70.8011731
+Cornwall,_Ontario 45.0205301 -74.7308512
+Corsica,_South Dakota 43.4252676 -98.4073023
+Corsica,_South Dakota 43.4252676 -98.4073023
+Coulee City,_Washington 47.6112561 -119.2922499
+Council Bluffs,_Iowa 41.2621283 -95.8613912
+Council Bluffs,_Iowa 41.2621283 -95.8613912
+Council Bluffs,_Iowa 41.2621283 -95.8613912
+Cowansville,_Quebec 45.207009 -72.7458872
+Cowansville,_Quebec 45.207009 -72.7458872
+Cowansville,_Quebec 45.207009 -72.7458872
+Cowansville,_Quebec 45.207009 -72.7458872
+Cowansville,_Quebec 45.207009 -72.7458872
+Coweta,_Oklahoma 35.9517674 -95.650814
+Craig,_Missouri 40.1947194 -95.3710903
+Cranston,_Rhode Island 41.7809588 -71.4371257
+Cranston,_Rhode Island 41.7809588 -71.4371257
+Crawford,_Nebraska 42.6830237 -103.4127012
+Crawfordsville,_Indiana 40.0401991 -86.8990249
+Crescent,_Iowa 41.364996 -95.8580668
+Crestline,_Kansas 37.1708926 -94.7043983
+Crestview,_Florida 30.7621326 -86.5705084
+Crystal City,_Missouri 38.2211656 -90.3790094
+Culbertson,_Montana 48.144657 -104.5175451
+Culbertson,_Nebraska 40.2297222 -100.8384909
+Daingerfield,_Texas 33.031793 -94.7218731
+Dakota,_Minnesota 44.666655 -93.044911
+Dallas,_Texas 32.7762719 -96.7968559
+Dallas,_Texas 32.7762719 -96.7968559
+Dallas,_Texas 32.7762719 -96.7968559
+Daly City,_California 37.688432 -122.460686483
+Danbury,_Connecticut 41.394817 -73.4540111
+Danielson,_Connecticut 41.8025986 -71.8859054
+Dardanelle,_Arkansas 35.2231408 -93.1579532
+Darien,_Wisconsin 42.6016814 -88.7076041
+Dartmouth,_Nova Scotia 44.6786384 -63.572263
+Davenport,_Iowa 41.5236436 -90.5776368
+Davenport,_Iowa 41.5236436 -90.5776368
+Dayton,_Tennessee 35.4939587 -85.0124535
+DeFuniak Springs,_Florida 30.7210227 -86.1152184
+DeQueen,_Arkansas 34.105392 -94.3560969
+Dearborn,_Michigan 42.3222599 -83.1763145
+Dearborn,_Michigan 42.3222599 -83.1763145
+Deer Park,_Texas 29.70478335 -95.1183944272
+Delta,_Utah 39.3521777 -112.57717
+Demopolis,_Alabama 32.5178284 -87.8368201
+Denison,_Iowa 42.0177658 -95.3552757
+Denison,_Iowa 42.0177658 -95.3552757
+Denver,_Iowa 42.6713719 -92.3374045
+Derby,_Connecticut 41.3223611 -73.0890324
+Derry,_New Hampshire 42.8808677 -71.3264492
+Detroit,_Michigan 42.3486635 -83.0567375
+Detroit,_Michigan 42.3486635 -83.0567375
+Detroit,_Michigan 42.3486635 -83.0567375
+Dexter,_Minnesota 43.7197096 -92.7045548
+Dexter,_Minnesota 43.7197096 -92.7045548
+Dickeyville,_Wisconsin 42.627311 -90.5920798
+Dickson,_Tennessee 36.1459327 -87.3480592
+Dixon,_Illinois 41.842224 -89.4815485
+Doland,_South Dakota 44.8958034 -98.1006465
+Dorchester,_Nebraska 40.6472277 -97.1133703
+Dorion,_Quebec 45.3864167 -74.0079969
+Dothan,_Alabama 31.158522 -85.4269661992
+Dousman,_Wisconsin 43.014176 -88.4725983
+Dover,_New Hampshire 43.198057 -70.8739158
+Downs,_Kansas 39.5032345 -98.5429571
+Drake,_Missouri 38.468381 -91.4646046
+Drayton,_North Dakota 48.5710958 -97.1778485
+Drayton,_North Dakota 48.5710958 -97.1778485
+Drummondville,_Quebec 45.8852782 -72.5008611
+Drummondville,_Quebec 45.8852782 -72.5008611
+Drummondville,_Quebec 45.8852782 -72.5008611
+Drummondville,_Quebec 45.8852782 -72.5008611
+Dryden,_Ontario 49.7834988 -92.8335566
+Dublin,_California 37.7021521 -121.9357918
+Dublin,_Georgia 32.5404447 -82.903754
+Dubois,_Idaho 44.1762984 -112.2308197
+Dumas,_Arkansas 33.8870477 -91.4917899
+Dunn,_North Carolina 35.3062743 -78.6089028
+Dupree,_South Dakota 45.0474815 -101.6009896
+Durand,_Wisconsin 44.6263543 -91.965726
+Durham,_North Carolina 35.9940329 -78.898619
+Eagan,_Minnesota 44.818173 -93.1659179
+Eagle Rock,_California 34.1432902 -118.1835196
+Early,_Iowa 42.4613706 -95.1519373
+East Jordan,_Michigan 45.1580628 -85.1242254
+East Lee,_Massachusetts 42.2973094 -73.2245502
+East Providence,_Rhode Island 41.8137116 -71.3700545
+East Syracuse,_New York 43.0653446 -76.0785332
+Eastman,_Quebec 45.3006452 -72.3171147
+Eastman,_Quebec 45.3006452 -72.3171147
+Eastman,_Quebec 45.3006452 -72.3171147
+Eastman,_Quebec 45.3006452 -72.3171147
+Easton,_Missouri 39.7222183 -94.641625
+Easton,_Missouri 39.7222183 -94.641625
+Eaton Rapids,_Michigan 42.5092039 -84.655814
+Eau Claire,_Wisconsin 44.811349 -91.4984941
+Eau Claire,_Wisconsin 44.811349 -91.4984941
+Echo,_Utah 40.9777244 -111.443255
+Echo,_Utah 40.9777244 -111.443255
+Eckerman,_Michigan 46.3652931 -85.0353579
+Eden Prairie,_Minnesota 44.8546856 -93.470786
+Eden Prairie,_Minnesota 44.8546856 -93.470786
+Eden Prairie,_Minnesota 44.8546856 -93.470786
+Edgerton,_Kansas 38.7647302 -95.0080224
+Edmonton,_Alberta 53.5343609 -113.5065085
+Edmundston,_New Brunswick 47.3633116 -68.3272191
+Effingham,_Illinois 39.1201433 -88.54348
+Effingham,_Illinois 39.1201433 -88.54348
+El Cajon,_California 32.7947731 -116.9625269
+El Dorado,_Kansas 37.81724 -96.8622524
+El Dorado,_Kansas 37.81724 -96.8622524
+El Reno,_Oklahoma 35.5322741 -97.9550494
+Eldridge,_Alabama 33.9228835 -87.6172389
+Elkhart,_Indiana 41.6819935 -85.9766671
+Ellsworth,_Kansas 38.6942009 -98.2149289
+Ellsworth,_Kansas 38.6942009 -98.2149289
+Elmwood,_Oklahoma 36.616498 -100.5225771
+Emerson,_Iowa 41.017218 -95.4022178
+Emerson,_Manitoba 49.0060537 -97.208882
+Emmetsburg,_Iowa 43.1127427 -94.6830357
+Emory Gap,_Tennessee 35.9167412 -84.5749364
+Emporia,_Kansas 38.4040054 -96.181623
+Emporia,_Kansas 38.4040054 -96.181623
+Enid,_Oklahoma 36.3967623 -97.8791341
+Enid,_Oklahoma 36.3967623 -97.8791341
+Eufaula,_Oklahoma 35.2873206 -95.5824846
+Eufaula,_Oklahoma 35.2873206 -95.5824846
+Evansville,_Indiana 37.9747645 -87.5558483
+Evansville,_Indiana 37.9747645 -87.5558483
+Evansville,_Wisconsin 42.7803486 -89.2992249
+Fairfield,_California 38.2493581 -122.0399663
+Fairview,_Kansas 39.8411112 -95.7280415
+Faith,_South Dakota 45.0230391 -102.0359924
+Fall River,_Massachusetts 41.7010642 -71.1546367
+Fall River,_Wisconsin 43.3909644 -89.0419184
+Fallon,_Nevada 39.4738129 -118.7783956
+Falmouth,_Maine 43.729525 -70.241993
+Fargo,_North Dakota 46.8772292 -96.789821
+Farm Point,_Quebec 54.0 -72.0
+Farmington,_Connecticut 41.7198216 -72.8320435
+Farwell,_Michigan 43.8350247 -84.8669666
+Fayetteville,_North Carolina 35.0529931 -78.8787058
+Ferndale,_Michigan 42.4605917 -83.1346478
+Fidelity,_Missouri 37.0681168 -94.3132763
+Fishers,_New York 43.0086744 -77.464716
+Flasher,_North Dakota 46.4561128 -101.2326433
+Flatlands,_New Brunswick 47.9914915 -66.8719526
+Fleurimont,_Quebec 45.4063675 -71.8385173
+Flint,_Michigan 43.0171773 -83.7236024
+Floodwood,_Minnesota 46.9291095 -92.9196483
+Flora,_Mississippi 32.5432591 -90.3094672
+Florenceville,_New Brunswick 46.4424342 -67.6186586
+Fond du Lac,_Wisconsin 43.7748763 -88.4458033
+Forbing,_Louisiana 32.3926552 -93.727401
+Forest Lake,_Minnesota 45.2788444 -92.985312
+Forgan,_Oklahoma 36.9069704 -100.5393177
+Forsyth,_Georgia 34.235309 -84.1335644
+Forsyth,_Georgia 34.235309 -84.1335644
+Fort Benton,_Montana 47.8172972 -110.6716715
+Fort Dodge,_Iowa 42.4974694 -94.1680158
+Fort Myers,_Florida 26.640628 -81.8723084
+Fort Scott,_Kansas 37.8399791 -94.7082882
+Fort Smith,_Arkansas 35.3872218 -94.4248983
+Fort Smith,_Arkansas 35.3872218 -94.4248983
+Fort Smith,_Arkansas 35.3872218 -94.4248983
+Fortuna,_North Dakota 48.9100315 -103.7793697
+Foxboro,_Massachusetts 42.0584323 -71.2494975
+Frankfort,_Kentucky 38.2009055 -84.8732836
+Franklin,_Indiana 39.4806056 -86.0549863
+Franklin,_Tennessee 35.1680139 -86.1084401
+Franklin,_Wisconsin 44.2127373 -91.1237621
+Freedom,_Wyoming 42.9826991 -111.0438243
+Freeman,_South Dakota 43.3524871 -97.4372863
+Fremont,_Nebraska 41.4333328 -96.4980807
+Ganado,_Arizona 35.6992764 -109.549821848
+Garden City,_Kansas 37.9716898 -100.8726618
+Garner,_Iowa 43.1024603 -93.6018782
+Garner,_North Carolina 35.7112642 -78.6141709
+Gaspe,_Quebec 48.8301224 -64.4851792
+Gates,_New York 43.0914641 -73.6381727
+Girard,_Kansas 37.5111596 -94.8380215
+Glencoe,_Oklahoma 36.2286641 -96.925591
+Glenholme,_Nova Scotia 45.3781307 -63.5516062
+Glenns,_Virginia 37.5656966 -76.6127322
+Glens Falls,_New York 43.3096957 -73.6441044
+Glenwood,_Iowa 41.0469437 -95.7425055
+Goldfield,_Iowa 42.7358045 -93.92078
+Goodenow,_Illinois 41.3919713 -87.6370807
+Goodlettsville,_Tennessee 36.3231067 -86.7133302
+Gould,_Quebec 45.5925035 -71.3752351
+Gould,_Quebec 45.5925035 -71.3752351
+Grainfield,_Kansas 39.1136186 -100.4651386
+Grand Island,_Nebraska 40.9250124 -98.342007
+Grand Portage,_Minnesota 47.963776 -89.6848121
+Grand-Mere,_Quebec 46.6128081 -72.6949758
+Grand-Mere,_Quebec 46.6128081 -72.6949758
+Grand-Remous,_Quebec 46.6229403 -75.9216964
+Grand-Remous,_Quebec 46.6229403 -75.9216964
+Grant,_Nebraska 41.9231444 -101.7354061
+Grantville,_Kansas 39.0833331 -95.5613668
+Grass Range,_Montana 47.0261827 -108.8037643
+Grayling,_Michigan 44.6615168 -84.7146371
+Grayling,_Michigan 44.6615168 -84.7146371
+Green Bay,_Wisconsin 44.5299412 -88.0248317
+Green River,_Utah 40.2659275 -109.5971656
+Greensburg,_Indiana 39.3372722 -85.483581
+Greenville,_Rhode Island 41.8712103 -71.5520069
+Gregory,_South Dakota 43.2322227 -99.4303833
+Gregory,_South Dakota 43.2322227 -99.4303833
+Grenville,_Quebec 45.622998 -74.5969294
+Greystone,_North Carolina 36.3607015 -78.3491628
+Grove City,_Minnesota 45.1505185 -94.6830533
+Guin,_Alabama 33.9656594 -87.9147494
+Gum Spring,_Virginia 39.518418 -79.9103427
+Gunnison,_Colorado 38.5458246 -106.9253207
+Gunnison,_Utah 39.1552391 -111.8182582
+Guthrie,_Oklahoma 35.8789231 -97.4252772
+Haines City,_Florida 28.1124785 -81.6311974491
+Half Moon Bay,_California 37.4635519 -122.4285862
+Halltown,_Missouri 37.193385 -93.6254785
+Hamburg,_Iowa 40.6044458 -95.6577711
+Hamburg,_Iowa 40.6044458 -95.6577711
+Hamden,_Connecticut 41.3959287 -72.8968716
+Hamilton,_Alabama 34.1423235 -87.9886438
+Hamilton,_Alabama 34.1423235 -87.9886438
+Hampton,_Iowa 42.7420086 -93.2022735
+Hampton,_Virginia 37.0300969 -76.3452057
+Hannibal,_Missouri 39.7083789 -91.3584816
+Hardeeville,_South Carolina 32.2802665 -81.0726108
+Harper,_Kansas 37.1922068 -98.0835849
+Harper Woods,_Michigan 42.4330924 -82.9240833
+Harrison,_Michigan 44.0191862 -84.7994675
+Harrisonville,_Missouri 38.6533446 -94.3484529
+Hartland,_Michigan 42.656697 -83.7530022
+Haverhill,_Massachusetts 42.7762015 -71.0772796
+Haverhill,_Massachusetts 42.7762015 -71.0772796
+Havre-St-Pierre,_Quebec 50.2454486 -63.5960767
+Havre-St-Pierre,_Quebec 50.2454486 -63.5960767
+Havre-St-Pierre,_Quebec 50.2454486 -63.5960767
+Hazen,_Arkansas 34.7809263 -91.5809651
+Helena,_Arkansas 34.5295471 -90.5917722
+Henderson,_Minnesota 44.5282971 -93.9077438
+Herington,_Kansas 38.671119 -96.9425139
+Hernando,_Mississippi 34.823987 -89.9937018
+Hibbing,_Minnesota 47.4271546 -92.9376887
+Highland,_Indiana 41.5536469 -87.451984
+Highland Park,_Michigan 42.4057135 -83.0969467
+Highland Park,_Michigan 42.4057135 -83.0969467
+Highmore,_South Dakota 44.5213731 -99.4415007
+Holstein,_Iowa 42.4891531 -95.545003
+Holt,_Michigan 42.636551 -84.5225270242
+Holyoke,_Massachusetts 42.22415795 -72.6402183064
+Homestead,_Iowa 41.7594532 -91.8671215
+Homewood,_Illinois 41.5572567 -87.6656015
+Horner,_Michigan 48.14134495 -88.6084642303
+Hot Springs,_South Dakota 43.431646 -103.4743625
+Hot Springs,_South Dakota 43.431646 -103.4743625
+Houghton,_South Dakota 45.76148055 -98.2124444422
+Houston,_Texas 29.7589382 -95.3676974
+Houston Lake,_Missouri 39.1927808 -94.6202345
+Howard,_South Dakota 44.0108074 -97.5267361
+Hugoton,_Kansas 37.1753025 -101.3496025
+Humboldt,_South Dakota 43.6452557 -97.0739467
+Hurley,_South Dakota 43.2830402 -97.0892202
+Hebertville,_Quebec 48.3914293 -71.6787005
+Iberville,_Quebec 45.31697525 -73.2224671038
+Iliff,_Colorado 40.759156 -103.0665894
+Independence,_Missouri 39.0911161 -94.4155068
+Indianapolis,_Indiana 39.7683331 -86.1583501
+Indianola,_Iowa 41.3580484 -93.5574376
+Iola,_Wisconsin 44.55495525 -89.1631982693
+Iowa City,_Iowa 41.6612561 -91.5299106
+Iowa City,_Iowa 41.6612561 -91.5299106
+Ipswich,_South Dakota 45.4444193 -99.0292784
+Ipswich,_South Dakota 45.4444193 -99.0292784
+Irene,_South Dakota 43.0830474 -97.1606081
+Irene,_South Dakota 43.0830474 -97.1606081
+Irving,_Iowa 41.9483555 -92.2954594
+Island Pond,_Vermont 44.8147712 -71.8803728
+Iuka,_Mississippi 34.809352 -88.1941237263
+Jacksonville,_Florida 30.3321838 -81.655651
+Jamestown,_Indiana 39.9267106 -86.6288926
+Jamison,_South Carolina 33.582098 -80.8178689
+Joliette,_Quebec 46.0243857 -73.439845
+L'Anse-Pleureuse,_Quebec 49.2422631 -65.647361
+Lac-Megantic,_Quebec 45.5747248 -70.8819871
+Lachute,_Quebec 45.6561296 -74.3412143
+Laval,_Quebec 45.60558895 -73.7344968952
+Levis,_Quebec 46.7910096 -71.1753274
+Levis,_Quebec 46.7910096 -71.1753274
+Macamic,_Quebec 48.7500001 -79.000083
+Mont-Joli,_Quebec 48.5838157 -68.1838987
+Mont-Laurier,_Quebec 46.5523631 -75.497393
+Montmagny,_Quebec 46.9818451 -70.5557013
+Phillipsburg,_Quebec 45.503785 -73.5680585
+Pierreville,_Quebec 46.070076 -72.8100515
+Plessisville,_Quebec 46.2194811 -71.7719238
+Rimouski,_Quebec 48.4492822 -68.5292478
+Saint-Henri,_Quebec 46.692049 -71.0669554
+St-Donat,_Quebec 48.4971102 -68.2474162
+St-Tite,_Quebec 46.729729 -72.5621431
+Tadoussac,_Quebec 48.1432299 -69.7198574

@@ -1,0 +1,261 @@
+# Author Mridul Birla
+
+
+'''
+1. Here we have assign frequency to the states such that no two states have same frequency
+2. Legacy constraint file contains the constraints where specified states can have only the mentioned frequency.
+3. Now for simplicity and faster execution we converted each sate to numeric representation ie
+   Alaska = 0, Alabama=1...... so on. Also the frequency code A,B,C,D are assigned numeric code as 0,1,2,3 respectively
+4. Now read_input gets all the input which we convert it state_connectivity_dic where key is the state number and value
+   is list of all the states that are connected to it
+5. We also have forward checking matrix which is also dictionary with key as the state and value as list of length of 4
+   which is initialized to 1 in beginning.
+6. I created a recursive function called assign_frequency which has 2 parameter one forward checking dictionary and the
+   state number .The reason for passing forward checking dictionary is if in case backtracking happens in that case we
+   would want to restore the forward matrix before assigning different frequency
+7. In first version of my code i was using deep copy to copy the forward matrix dictionary but after analysis found that
+   it was bottleneck in terms of performance. So to improve the performance i created my own deep copy by creating
+   a class f_chk which on initializing copy the dic and using the method get_matrix returns the forward checking dict.
+8 The function getcode and getname returns the frequency code, name resp.
+9. Lastly i added the arc consistency also. Without arc consistency and by doing just forward checking for
+   leagacy-constraints-3 was taking 15 back track. But now it is taking 0 backtrack.  I had also assumed that by
+   implementing arc consistency my code will perform slowly but since it reduced number of backtrack significantly so
+   my code execution time remains health with .014 second on average
+10. For backtracking count i have used backtrackcountvariable which increases it self when we call assign_frequency which
+    returns false.
+'''
+
+import sys
+import time
+
+class f_chk:
+
+    def __init__(self,matrix):
+        self.frwd_matrix={}
+        for key, value in matrix.items():
+            for v in value:
+                self.frwd_matrix.setdefault(key,[]).append(v) #copy.copy(value)
+
+    def get_matrix(self):
+        return self.frwd_matrix
+
+def read_input(file_name):
+    try:
+        temp = [line.split(" ") for line in open(file_name, "r")]
+        return temp
+    except IOError:
+        print "legacy constraints file.txt"
+        sys.exit()
+
+
+def create_state_dict(file_in):
+    n = 0
+    for l in file_in:
+        p = l[0]
+        p = p[:-1] if p.endswith("\n") else p
+        st_intgr_map[p] = n
+        st_name_map[n] = p
+        forward_checking_matrix[n] = [1, 1, 1, 1]
+
+        n += 1
+        state_clr[p] = "O"
+    for l in file_in:
+        p = l[0]
+        p = p[:-1] if p.endswith("\n") else p
+        r = st_intgr_map[p]
+        if len(l) > 1:
+            for i in range(1, len(l)):
+                q = l[i]
+                q = q[:-1] if q.endswith("\n") else q
+                if q == '':
+                    continue
+                try:
+                    index_connectivity_city = st_intgr_map[q]
+                   # state_connectivity_matrix[r][index_connectivity_city] = 1
+                    state_connectivity_dict.setdefault(r,[]).append(index_connectivity_city)
+                except KeyError:
+                    print "a"
+        elif len(l)==1:
+            state_connectivity_dict.setdefault(r,[])
+        key = len(l) - 1
+        adjacency_state_count.setdefault(key, []).append(r)
+
+
+def update_forward_map(state_id, code, forward_checking_matrix):
+    #for i in range(0, 50):
+    for i in state_connectivity_dict[state_id]:
+        if forward_checking_matrix[i][code] == 1:
+            forward_checking_matrix[i][code] = 0
+            if forward_checking_matrix[i][0] == forward_checking_matrix[i][1] == forward_checking_matrix[i][2] == \
+                    forward_checking_matrix[i][3] == 0:
+                forward_checking_matrix[i][code] = 1
+                return 0
+
+    return 1
+
+
+def check_adjacent_color(state_id, color_assigned):
+    code = -1
+    for i in state_connectivity_dict[state_id]:
+        connected_state_name = st_name_map[i]
+        connected_state_color = state_clr[connected_state_name]
+        code = getcode(connected_state_color)
+        if code == color_assigned:
+            return 0
+    return 1
+
+
+def read_constraints(f_name):
+    temp = [line.split(" ") for line in open(f_name, "r")]
+    code = 0
+    for i in temp:
+        p = st_intgr_map[i[0]]
+        q = i[1]
+        q = q[:-1] if q.endswith("\n") else q
+        code=getcode(q)
+        if not check_adjacent_color(p, code):
+            return 0
+        state_clr[i[0]] = q
+
+        if not update_forward_map(p, code, forward_checking_matrix):
+            return 0
+        constrained_state.append(st_intgr_map[i[0]])
+
+    return 1
+
+
+def getcode(color_name):
+    if color_name == "A":
+        return 0
+    elif color_name == "B":
+        return 1
+    elif color_name == "C":
+        return 2
+    elif color_name == "D":
+        return 3
+
+
+def getname(color_code):
+    if color_code == 0:
+        return "A"
+    elif color_code == 1:
+        return "B"
+    elif color_code == 2:
+        return "C"
+    elif color_code == 3:
+        return "D"
+
+
+def arc_consistency(state,forward_matrix):
+    p=[1,1,1,1]
+    for connected_state in state_connectivity_dict[state]:
+        for i in range(0,4):
+            if forward_matrix[state][i]==1:
+                if i==0 and forward_matrix[connected_state][1]==forward_matrix[connected_state][2]==forward_matrix[connected_state][3]==0:
+                    p[i]=0
+                elif i==1 and forward_matrix[connected_state][0]==forward_matrix[connected_state][2]==forward_matrix[connected_state][3]==0:
+                    p[i]=0
+                elif i==2 and forward_matrix[connected_state][1]==forward_matrix[connected_state][0]==forward_matrix[connected_state][3]==0:
+                    p[i]=0
+                elif i==3 and forward_matrix[connected_state][1]==forward_matrix[connected_state][2]==forward_matrix[connected_state][0]==0:
+                    p[i]=0
+    return p
+def assign_frequency(state, check_matrix):
+
+    global backtrackcount
+    if state == 50:
+        return True
+    #if state==43:
+        #print "a"
+    p=arc_consistency(state,check_matrix)
+    for i in range(0, 4):
+        if p[i]==1:
+            # Check if a specific color can be assigned to the state by using forward checking matrix
+            frw_matrix_class=f_chk(check_matrix)
+            frwd_check_matrix=frw_matrix_class.get_matrix()
+            #frwd_check_matrix = copy.deepcopy(check_matrix)
+            if frwd_check_matrix[state][i] == 1:
+                next_state = stack.pop()
+                if update_forward_map(state, i, frwd_check_matrix):
+                    key = st_name_map[state]
+                    previous_color = state_clr[key]
+                    state_clr[key] = getname(i)
+                    if not check_adjacent_color(state, i):
+                        state_clr[key] = previous_color
+                    elif assign_frequency(next_state, frwd_check_matrix):
+                        return True
+                    else:
+
+                        if state not in state_connectivity_dict[next_state]:
+                            stack.append(next_state)
+                            backtrackcount += 1
+
+                        else:
+                            stack.append(next_state)
+                            backtrackcount += 1
+                            return False
+
+                else:
+                    stack.append(next_state)
+    return False
+
+
+
+start_time = time.time()
+st_intgr_map = {}
+st_name_map = {}
+state_clr = {}
+backtrackcount = 0
+#state_connectivity_matrix = {}
+state_connectivity_dict={}
+forward_checking_matrix = {}
+adjacency_state_count = {}
+constrained_state = []
+file_input = read_input("adjacent-states")
+create_state_dict(file_input)
+status = read_constraints(sys.argv[1])
+
+if not status:
+    print "Sorry its not possible due to the constraints you have added"
+
+else:
+
+    stack = [50]
+
+    for key in adjacency_state_count.keys():
+        for i in adjacency_state_count[key]:
+            if i not in constrained_state:
+                stack.append(i)
+
+    is_Success = assign_frequency(stack.pop(), forward_checking_matrix)
+
+    outfile = open('dict.txt', 'w')
+    for key, value in state_clr.items():
+        outfile.write(str(key) + ':' + str(value) + '\n')
+
+    print "Successfull=" + str(is_Success) + " and backtrack=" + str(backtrackcount)
+    print "---" + str(time.time() - start_time) + " seconds ---"
+
+'''
+
+    code = 0
+    code1 = 0
+    for i in range(0, 50):
+        for key in st_intgr_map.keys():
+            if st_intgr_map[key] == i:
+                color = state_clr[key]
+                if color=='O':
+                    print "I didnt assign the color "
+                code = getcode(color)
+                break
+        for j in state_connectivity_dict[i]:
+
+            for key1 in st_intgr_map.keys():
+                if st_intgr_map[key1] == j:
+                    color = state_clr[key1]
+                    code1=getcode(color)
+                    if (code == code1):
+                        print "Fire in the Hole"
+                    break
+
+'''
